@@ -21,5 +21,7 @@ school_of_rock = movie.Movie("Toy Story",
 	"https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Toy_Story.jpg/220px-Toy_Story.jpg",
 	"https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
-movies = [toy_story,thor,avatar,school_of_rock]
-fresh_tomatoes.open_movies_page(movies)
+#movies = [toy_story,thor,avatar,school_of_rock]
+#fresh_tomatoes.open_movies_page(movies)
+#print (movie.Movie.VALID_RATINGS)
+print (movie.Movie.__module__)
